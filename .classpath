@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/zephi/eclipse-workspace/SOEN445_LA2/lib/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
